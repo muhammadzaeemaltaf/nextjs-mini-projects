@@ -13,7 +13,8 @@ const Projects = () => {
         projectImage={project.projectImage}
       />
     ))}
-  </div>  )
+  </div>  
+  )
 }
 
 export default Projects
